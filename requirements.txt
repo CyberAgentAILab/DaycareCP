@@ -1,0 +1,4 @@
+ortools==9.8.3296
+numpy==1.26.2
+ipykernel==6.27.1
+notebook==7.0.6
